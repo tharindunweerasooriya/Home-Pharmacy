@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Home Pharmacy</string>
+    <string name="BillNo">Bill No</string>
+    <string name="EnterBillNo">Enter Bill No</string>
+    <string name="MobileNo">Mobile No</string>
+    <string name="EnterMobile">Enter Mobile No</string>
+    <string name="FindResult">Find Result</string>
+    <string name="Download">Download</string>
+    <string name="ImageView">Image View</string>
+    <string name="ReportHandle">Report Handling</string>
+    <string name="Save">Save Image</string>
+    <string name="Insert">Insert</string>
+    <string name="Delete">Delete</string>
+    <string name="your_report">Your Report</string>
+</resources>
