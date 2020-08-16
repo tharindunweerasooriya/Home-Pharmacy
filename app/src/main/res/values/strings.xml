@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Home Pharmacy</string>
+    <string name="home">Home Pharmacy</string>
+    <string name="addpres">Add Prescription</string>
+    <string name="upPres">Upload Prescription</string>
+    <string name="upload">Upload</string>
+    <string name="homedel">Home Delivery</string>
+    <string name="address">Address</string>
+    <string name="conf">Confirm</string>
+    <string name="medOrders">Medication Orders</string>
+    <string name="medPrice">Price of medicines</string>
+    <string name="disctance">Distance</string>
+    <string name="send">SEND</string>
+    <string name="adPanel">Admin Panel</string>
+    <string name="presID">Prescription ID :</string>
+    <string name="custID">Customer ID :</string>
+    <string name="img">Image</string>
+    <string name="btnselect">Select</string>
+    <string name="btndelete">Delete</string>
+
+</resources>
