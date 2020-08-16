@@ -12,4 +12,18 @@
     <string name="Insert">Insert</string>
     <string name="Delete">Delete</string>
     <string name="your_report">Your Report</string>
+    <string name="Add">Add</string>
+    <string name="title_activity_report_card">ReportCard</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="billnumber">Bill No : 100324</string>
+    <string name="phone">Mobile No : 0762222222</string>
+    <string name="billnumber2">Bill No : 100342</string>
+    <string name="phone2">Mobile No :0773456754</string>
 </resources>
