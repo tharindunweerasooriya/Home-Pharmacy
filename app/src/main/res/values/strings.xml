@@ -12,4 +12,9 @@
     <string name="Insert">Insert</string>
     <string name="Delete">Delete</string>
     <string name="your_report">Your Report</string>
+    <string name="add">Add</string>
+    <string name="billAdd">Bill No : 10034</string>
+    <string name="phone">Mobile No : 0762345678</string>
+    <string name="billAdd2">Bill No : 10055</string>
+    <string name="phone2">Mobile No : 0774567654</string>
 </resources>
